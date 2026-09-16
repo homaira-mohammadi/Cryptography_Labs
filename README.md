@@ -32,4 +32,4 @@ Each notebook is self-contained — encrypts/decrypts a sample message and print
 
 ## Author
 
-[Your Name] — Cryptography Lab, Week 2
+Homaira Mohammadi— Cryptography Lab
